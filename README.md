@@ -1,5 +1,4 @@
-# home-page
- #### **portfolio under construction**
+https://andreemiranda.github.io/andreemiranda/
 
 
 
