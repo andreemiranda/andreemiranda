@@ -1,4 +1,4 @@
-https://andreemiranda.github.io/andreemiranda/
+https://wondrous-yeot-1db289.netlify.app/
 # CARLOS ANDRÉ ROCHA MIRANDA
 
 ### Programação Web | Contabilidade Privada e Pública | Suporte Técnico em Informática | Assessoria Comercial
