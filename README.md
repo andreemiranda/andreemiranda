@@ -92,19 +92,19 @@ Conhecimentos Técnicos em Contabilidade, Gerencial, Instruções e elaboração
 
 ## Experiências Profissionais
 
-**➤ Câmara Municipal de Pedro Afonso: Técnico em Informática**  
+**➤ Técnico em Informática**  
 Manutenção de equipamentos de informática: Gestão rede de computadores e cabeamento estruturado, manutenção e instalação de softwares e instalação de softwares e sistemas operacionais especializado em Windows e Linux bem como a realização de backup de arquivos. Programador Web - Escrever códigos bem estruturados, eficientes e testáveis utilizando as melhores práticas de desenvolvimento de softwares, criar layout/interface de usuário de sites usando práticas padrão de HTML/CSS, Integrar dados de vários serviços de back-end e bancos de dados.
 
-**➤ Menezes e Silva Ltda: Supervisor de Vendas**  
+**➤ Supervisor de Vendas**  
 Atendimento direto ao consumidor, negociando os preços de mercadoria, os prazo, as condições de pagamento e os descontos. E ainda orientando o cliente sobre as especificações dos produtos e serviços, controlar a demanda dos pedidos em estoque e cumprimento de meta de vendas. Realizar o processo de venda que acontece dentro da própria companhia, através de meios de comunicação mais tradicionais, como o telefone, como também por métodos online.
 
-**➤ CR Bandeira Labre e Cia Ltda: Consultor de Vendas**  
+**➤ Consultor de Vendas**  
 Atendimento direto ao consumidor, negociando os preços de mercadoria, os prazo, as condições de pagamento e os descontos. E ainda orientando o cliente sobre as especificações dos produtos e serviços, controlar a demanda dos pedidos em estoque e cumprimento de meta de vendas. Realizar o processo de venda que acontece dentro da própria companhia, através de meios de comunicação mais tradicionais, como o telefone, como também por métodos online.
 
-**➤ Lojas Deny Eletromóveis Ltda: Gerente de Vendas**  
+**➤ Gerente de Vendas**  
 Atendimento direto ao consumidor, negociando os preços de mercadoria, os prazo, as condições de pagamento e os descontos. E ainda orientando o cliente sobre as especificações dos produtos e serviços, controlar a demanda dos pedidos em estoque e cumprimento de meta de vendas. Realizar o processo de venda que acontece dentro da própria companhia, através de meios de comunicação mais tradicionais, como o telefone, como também por métodos online.
 
-**➤ JN Informática e Papelaria: Auxiliar de Expedição**  
+**➤ Auxiliar de Expedição**  
 Trabalhando no setor logístico, recebendo e organizando produtos no estoque, gerenciando o estoque e a quantidade de produtos, em como, na preparação de envio para o cliente final, separando e embalando a mercadoria, conferindo os dados da mercadoria constantes na nota fiscal eletrônica e do cliente para quem será enviada e liberar a entrega para transporte.
 
 Gerencia o estoque, cuidando do melhor armazenamento dos produtos, produzindo relatórios de controle de entrada e saída de mercadorias, além de fazer o inventário. Realizar o processo de venda que acontece dentro da própria companhia, através de meios de comunicação mais tradicionais, como o telefone, como também por métodos online.
@@ -113,3 +113,4 @@ Gerencia o estoque, cuidando do melhor armazenamento dos produtos, produzindo re
 - Manter atualizados os registros necessários para controle
 - Maximizar o volume armazenado para evitar furos de estoque
 - Relatar a entrada e saída de mercadorias
+
