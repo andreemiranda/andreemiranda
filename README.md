@@ -16,8 +16,7 @@ https://wondrous-yeot-1db289.netlify.app/
 ### Carlos André Rocha Miranda
 
 📍 **Endereço:**  
-Rua 3, 936 - St. Maria Galvão  
-Pedro Afonso, TO  
+Pedro Afonso, Brasil, Tocantins  
 Cep: 77710-000
 
 📞 **Telefone:** +55 (63) 9 99242-8022
@@ -113,4 +112,5 @@ Gerencia o estoque, cuidando do melhor armazenamento dos produtos, produzindo re
 - Manter atualizados os registros necessários para controle
 - Maximizar o volume armazenado para evitar furos de estoque
 - Relatar a entrada e saída de mercadorias
+
 
