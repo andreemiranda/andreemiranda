@@ -1,5 +1,5 @@
 https://wondrous-yeot-1db289.netlify.app/
-# CARLOS ANDRÉ ROCHA MIRANDA
+# ANDRÉ MIRANDA
 
 ### Programação Web | Contabilidade Privada e Pública | Suporte Técnico em Informática | Assessoria Comercial
 
@@ -112,5 +112,6 @@ Gerencia o estoque, cuidando do melhor armazenamento dos produtos, produzindo re
 - Manter atualizados os registros necessários para controle
 - Maximizar o volume armazenado para evitar furos de estoque
 - Relatar a entrada e saída de mercadorias
+
 
 
