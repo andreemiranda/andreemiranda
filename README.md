@@ -1,117 +1,148 @@
 https://wondrous-yeot-1db289.netlify.app/
-# ANDRÉ MIRANDA
+```md
+# Carlos André Rocha Miranda
 
-### Programação Web | Contabilidade Privada e Pública | Suporte Técnico em Informática | Assessoria Comercial
+**Técnico em Informática | Bacharel em Ciências Contábeis | Servidor Público Municipal**
+
+Pedro Afonso – TO, Brasil  
+📧 mirandinhacontabilidade@gmail.com | legislativomunicipal@aol.com  
+📞 +55 (63) 9 99242-8022  
+🔗 [Currículo Lattes](https://lattes.cnpq.br/4903719835013487)  
+🔗 [Currículo ORCID](https://orcid.org/0009-0003-6651-7088)  
+🔗 [LinkedIn](https://www.linkedin.com/in/andremiranda2014) | [Facebook](https://www.facebook.com/andrehmiranda) | [Instagram](https://www.instagram.com/andremiranda04) | [Twitter](https://twitter.com/andremirandaa) | [WhatsApp](https://goo.gl/hjjrzW)
 
 ---
 
 ## Perfil Profissional
 
-"Formado em Informática e Graduado em Ciências Contábeis, com excelente capacidade analítica, de gestão de projetos e de trabalho em equipe, adquirida através de estudos universitários, de mais de 17 anos de experiência no mercado varejista em trabalho com vendas e atendimento comercial. Aberto a sugestões, inovações e refletindo o avanço em tecnologia, investindo em conhecimento, eliminando as carências e criando soluções para o crescimento na área de TI, criando oportunidades de parcerias para novas soluções, fortalecendo o intercâmbio de ideias e network na busca de melhores práticas e projetos comuns, respeitando os limites de segurança, éticos e legais e que satisfaçam as aspirações e direcionem para a evolução. A par com o meu curso técnico-profissionalizante em Tecnologia da Informação e Ciências Contábeis, tenho sido capaz de desenvolver as minhas capacidades num ambiente de trabalho que me agrada. Estou à procura de uma organização que me possa oferecer a oportunidade de trabalhar em projetos relacionados à Tecnologia em geral."
+Profissional com formação interdisciplinar em Tecnologia da Informação e Ciências Contábeis. Técnico em Informática pela Câmara Municipal de Pedro Afonso-TO desde 2018, atuando em suporte, manutenção e gestão de sistemas de informação do Poder Legislativo municipal. Bacharel em Ciências Contábeis pela Universidade Pitágoras Unopar Anhanguera (2022), com sólido desempenho acadêmico e ênfase em contabilidade pública, fiscal e societária. Possui também formação técnica em Informática pelo IFTO (2018).
+
+Com mais de 17 anos de experiência no mercado varejista em vendas e atendimento comercial, alia capacidade analítica, gestão de projetos e trabalho em equipe. Participou voluntariamente das Eleições Gerais de 2022 como **Técnico de Transmissão** do TRE-TO. Investe continuamente em capacitação nas áreas de gestão pública, finanças, direito, tecnologia e liderança (ILB, ENAP, IFTO, TCE-TO, entre outras). Busca atuar em projetos relacionados à Tecnologia, inovação, segurança da informação e contabilidade.
 
 ---
 
-## Contato
+## Formação Acadêmica
 
-### Carlos André Rocha Miranda
+**Bacharel em Ciências Contábeis**  
+Universidade Pitágoras Unopar Anhanguera (UPUA) – 2019 a 2022  
+Habilitação: Contador | Carga horária integralizada: 3.000h  
+Orientadora: Professora Solange Martins  
+*Participação no ENADE 2022 – Habilitado (Concluinte)*
 
-📍 **Endereço:**  
-Pedro Afonso, Brasil, Tocantins  
-Cep: 77710-000
+**Técnico em Informática**  
+Instituto Federal de Educação, Ciência e Tecnologia do Tocantins (IFTO) – 2016 a 2017  
+Colação de grau: 10 de abril de 2018
 
-📞 **Telefone:** +55 (63) 9 99242-8022
+**Ensino Médio**  
+Escola Estadual Comendador Pádua Fleury (EEAA) – 1999 a 2001  
+Concluído em 16 de dezembro de 2001
 
-✉️ **E-mail:** legislativomunicipal@aol.com
-
-### Redes Sociais
-
-- [Facebook](https://www.facebook.com/andrehmiranda)
-- [Instagram](https://www.instagram.com/andremiranda04)
-- [LinkedIn](https://www.linkedin.com/in/andremiranda2014)
-- [Twitter](https://twitter.com/andremirandaa)
-- [WhatsApp](https://goo.gl/hjjrzW)
+**Ensino Fundamental**  
+Escola Estadual Ana Amorim (EEAA) – 1990 a 1994  
+Concluída 8ª Série (20/12/1994) e 4ª Série/Primária (10/12/1994)
 
 ---
 
-## Formação
+## Atuação Profissional
 
-**➤ Graduado em Ciências Contábeis**  
-*UNOPAR - Universidade do Norte do Paraná (2019-2022)*
+**Técnico em Informática – Servidor Público**  
+Câmara Municipal de Pedro Afonso-TO (CMPA) – 2018 até o momento  
+- Suporte técnico, manutenção de equipamentos e sistemas  
+- Gestão de rede de computadores, cabeamento estruturado  
+- Instalação de softwares e sistemas operacionais (Windows e Linux)  
+- Backup de arquivos e segurança da informação  
+- Gestão de TI no Poder Legislativo municipal
 
-**➤ Formação de Professores dos Anos Iniciais do Ensino Fundamental**  
-*Secretaria de Educação Básica no Ambiente Virtual de Aprendizagem do Ministério da Educação - AVAMEC (2023)*
+**Técnico de Transmissão – Trabalho Voluntário**  
+Tribunal Regional Eleitoral do Tocantins – 23ª Zona Eleitoral, Pedro Afonso-TO  
+Eleições Gerais 2022 (1º e 2º Turnos)  
+- Treinamentos preparatórios e suporte técnico à transmissão de dados eleitorais
 
-**➤ Contabilidade Gerencial**  
-*UNOPAR - Universidade do Norte do Paraná (2019)*
+**Supervisor de Vendas / Consultor de Vendas / Gerente de Vendas** (experiência anterior)  
+- Atendimento direto ao consumidor, negociação de preços, prazos, condições de pagamento e descontos  
+- Orientação sobre especificações de produtos e serviços  
+- Controle de pedidos, estoque e cumprimento de metas  
+- Vendas por telefone e meios online
 
-**➤ Mercado de Capitais**  
-*UNOPAR - Universidade do Norte do Paraná (2019)*
+**Auxiliar de Expedição** (experiência anterior)  
+- Recebimento, organização e gerenciamento de estoque  
+- Preparação de envio ao cliente final, conferência de notas fiscais  
+- Produção de relatórios de entrada/saída e inventário
 
-**➤ Orçamento Empresarial**  
-*UNOPAR - Universidade do Norte do Paraná (2020)*
+---
 
-**➤ Técnico em Informática**  
-*IFTO - Instituto Federal de Educação, Ciências e Tecnologia Do Tocantins (2016 - 2017)*
+## Formação Complementar (Cursos de Curta Duração)
 
-**➤ Inglês Básico FIC**  
-*IFTO - Instituto Federal de Educação, Ciências e Tecnologia Do Tocantins (2018 - 2018)*
+### Tribunal de Contas do Estado do Tocantins (TCE-TO) – Instituto de Contas 5 de Outubro
+- FORMAPP – Módulos III a IX (2011) – Gestão Ambiental, Orçamento, Licitações, Fundeb, SICAP, Controle Externo (total: ~66h)
+- Ciclo de Encontros Técnicos – Municípios da Sexta Relatoria (Itacajá-TO, 2023, 4h)
+- Projeto Agenda Cidadã 2023 (Pedro Afonso-TO, 2023, 8h)
+- Programa TCE de Olho no Futuro – Aliança pela Primeira Infância (Palmas-TO, 2025, 4h)
 
-**➤ Programador Web FIC**  
-*IFTO - Instituto Federal de Educação, Ciências e Tecnologia Do Tocantins (2021- 2021)*
+### Instituto Legislativo Brasileiro (ILB) e ENAP
+- Introdução ao Direito Constitucional – ILB (2023, 40h)
+- Orçamento Público Avançado – ILB (2023, 60h)
+- Novo Regime Fiscal e o Teto de Gastos – ENAP (2023, 30h)
+- Gestão Estratégica com foco na Administração Pública – ILB (2020, 40h)
+- Acesso à Informação – ENAP (2020, 20h)
+- Ética e Administração Pública – ILB (2020, 40h)
 
-**➤ FORMAP - Formação de Agentes Públicos**  
-*TCE TOCANTINS (Tribunal de Contas do Estado do Tocantins – Instituto de Contas 5 de outubro): (2011)*
+### Secretaria de Educação Básica / AVAMEC
+- Formação de Professores dos Anos Iniciais do Ensino Fundamental (2023, 360h)
+
+### Instituto Federal do Tocantins (IFTO)
+- Programador WEB (2021, 180h)
+- Inglês Básico (2018, 180h)
+
+### Universidade Pitágoras Unopar Anhanguera (UPUA) – Trilhas de Carreira (2020)
+- **Argumentação e Análise de Discurso** (120h): Análise do Discurso, Argumentação, Teoria da Argumentação Jurídica
+- **Coaching e Liderança** (80h): Autocoaching, Comunicação Assertiva, Gestão de Metas, Liderança
+- **Comunicação em Negócios e Mídias Sociais** (180h): Marketing Digital, Gestão da Comunicação, Planejamento de Mídia
+- **Espanhol – Vocabulário Essencial** (120h) e **Incrementando o Vocabulário** (120h)
+- **Gestão de Projetos de Sustentabilidade** (120h): Economia Ambiental, Gestão de Recursos Naturais
+- **Outras trilhas** (carga horária entre 120h e 180h): Relações Sociais, Inglês, Mercado Bancário, Logística no Agronegócio, Tecnologia e Direito Digital, Inovação em Gestão de Pessoas, Economia Política Mundial
+- **Cursos avulsos**: Teoria Jurídica do Direito Penal (60h), Mercado de Capitais (20h), Orçamento Empresarial (120h), Contabilidade Gerencial (2019)
+
+### Palestras – Semana "Encare o Desafio" (Kroton / Faculdade Anhanguera, junho/2020)
+- Liderança, propósito, autoconhecimento, empregabilidade, educação financeira, produtividade, vendas em crise, redes sociais, sucesso, etc. (17 palestras de 1h cada)
 
 ---
 
 ## Habilidades Profissionais
 
-**➤ Contabilidade Empresarial:**  
-Abertura de empresa: estruturação do contrato ou estatuto social, orientando o empreendedor sobre o melhor formato jurídico e regime tributário a ser adotado; organização do setor contábil. Empresa em operação: realização dos balanços mensais e anuais das contas do negócio, controles financeiros, fluxo de caixa, planejamento e orçamento; orientação e consultoria para mudanças societárias. Encerramento da empresa: orientação para o encerramento das atividades da empresa, indicando ao empresário as etapas, prazos e exigências necessárias para fechamento do negócio.
+### Contabilidade Empresarial e Gestão Financeira
+- Abertura, operação e encerramento de empresas (contrato social, regime tributário)
+- Balanços mensais/anuais, controles financeiros, fluxo de caixa, planejamento e orçamento
+- Apuração de impostos, guias de recolhimento, conciliação de lançamentos
+- Contabilidade gerencial, societária, pública e fiscal
 
-**➤ Suporte Técnico em Informática:**  
-Manutenção de equipamentos de informática: Gestão rede de computadores e cabeamento estruturado, manutenção e instalação de softwares e instalação de softwares e sistemas operacionais especializado em Windows e Linux bem como a realização de backup de arquivos.
+### Suporte Técnico em Informática e Infraestrutura de TI
+- Manutenção de hardware/software, redes, cabeamento estruturado
+- Gestão de servidores, backup, computação em nuvem
+- Sistemas Windows e Linux
+- Segurança da Informação: proteção de dados, análise de vulnerabilidades, auditoria
 
-**➤ Programação Web:**  
-Escrever códigos bem estruturados, eficientes e testáveis utilizando as melhores práticas de desenvolvimento de softwares, criar layout/interface de usuário de sites usando práticas padrão de HTML/CSS, Integrar dados de vários serviços de back-end e bancos de dados. Certificações: Cyber Cloud - Redes - Inteligência Artificial - Engenharia de Software - Governança - Azure - Lógica de Programação.
+### Programação Web e Desenvolvimento
+- HTML/CSS, boas práticas de software, integração com back-end e bancos de dados
+- Certificações: Cyber Cloud, Redes, IA, Engenharia de Software, Governança, Azure, Lógica de Programação
 
-**➤ Segurança da Informação:**  
-Proteção de dados comerciais, analisando o ambiente de TI das empresas para identificar suas vulnerabilidades e recomendar as melhores práticas de proteção de dados e redução de ameaças, realizando atividades em Segurança da Informação, Assistência Técnica, Auditoria, Supervisão, Organizacional, Gestão e Administração de TI, Contabilidade, RH, Ministrar de Cursos interativos e inclusão digital, Recuperação de Sistemas Operacionais e Dados.
+### Análise e Gestão de Dados
+- Mapeamento e processamento de conteúdos web, soluções de acesso à informação
+- Filtragem de dados de mercado, redes sociais e sistemas
 
-**➤ Infraestrutura de TI:**  
-Instalações de softwares (análise, desenvolvimento e ajustes), Instalação e Manutenção de Hardwares, Análise e implantação de redes (Servidores - programação e implantação), Backup, Cloud(Nuvem), Consultoria.
-
-**➤ Análise e Gestão de Dados:**  
-Analisar, mapear e processar conteúdos de sites, sistemas e da internet como um todo. Desenvolver soluções para a empresa e facilitar o acesso a essa informação. Além de filtrar as informações sobre o mercado através da internet, sites e redes sociais. Gestão de TI: Atendimentos Remotos, Metas Comerciais, Orientações e Técnicas de Vendas/Persuasão, Criação de Parâmetros de Controle e Suporte a Vendas e Marketing.
-
-**➤ Contabilidade e Gestão Financeira:**  
-Conhecimentos Técnicos em Contabilidade, Gerencial, Instruções e elaboração de metas comerciais. Auxiliar, classificar e conciliar lançamentos financeiros para a área responsável pela contabilidade de uma empresa. Bem como participar da apuração de impostos e preenchimento de guias de recolhimento junto aos órgãos do governo e inserir os registro no sistema contábil.
+### Vendas e Gestão Comercial
+- Atendimento, negociação, metas, técnicas de persuasão, supervisão de equipes
+- Suporte a vendas e marketing, criação de parâmetros de controle
 
 ---
 
-## Experiências Profissionais
+## Idiomas
 
-**➤ Técnico em Informática**  
-Manutenção de equipamentos de informática: Gestão rede de computadores e cabeamento estruturado, manutenção e instalação de softwares e instalação de softwares e sistemas operacionais especializado em Windows e Linux bem como a realização de backup de arquivos. Programador Web - Escrever códigos bem estruturados, eficientes e testáveis utilizando as melhores práticas de desenvolvimento de softwares, criar layout/interface de usuário de sites usando práticas padrão de HTML/CSS, Integrar dados de vários serviços de back-end e bancos de dados.
+- **Português:** Compreende bem, lê bem, fala fluentemente, escreve bem.
+- **Inglês:** Compreende bem, lê bem, fala razoavelmente, escreve pouco.
+- **Espanhol:** Compreende bem, lê bem, fala razoavelmente, escreve pouco.
 
-**➤ Supervisor de Vendas**  
-Atendimento direto ao consumidor, negociando os preços de mercadoria, os prazo, as condições de pagamento e os descontos. E ainda orientando o cliente sobre as especificações dos produtos e serviços, controlar a demanda dos pedidos em estoque e cumprimento de meta de vendas. Realizar o processo de venda que acontece dentro da própria companhia, através de meios de comunicação mais tradicionais, como o telefone, como também por métodos online.
+---
 
-**➤ Consultor de Vendas**  
-Atendimento direto ao consumidor, negociando os preços de mercadoria, os prazo, as condições de pagamento e os descontos. E ainda orientando o cliente sobre as especificações dos produtos e serviços, controlar a demanda dos pedidos em estoque e cumprimento de meta de vendas. Realizar o processo de venda que acontece dentro da própria companhia, através de meios de comunicação mais tradicionais, como o telefone, como também por métodos online.
-
-**➤ Gerente de Vendas**  
-Atendimento direto ao consumidor, negociando os preços de mercadoria, os prazo, as condições de pagamento e os descontos. E ainda orientando o cliente sobre as especificações dos produtos e serviços, controlar a demanda dos pedidos em estoque e cumprimento de meta de vendas. Realizar o processo de venda que acontece dentro da própria companhia, através de meios de comunicação mais tradicionais, como o telefone, como também por métodos online.
-
-**➤ Auxiliar de Expedição**  
-Trabalhando no setor logístico, recebendo e organizando produtos no estoque, gerenciando o estoque e a quantidade de produtos, em como, na preparação de envio para o cliente final, separando e embalando a mercadoria, conferindo os dados da mercadoria constantes na nota fiscal eletrônica e do cliente para quem será enviada e liberar a entrega para transporte.
-
-Gerencia o estoque, cuidando do melhor armazenamento dos produtos, produzindo relatórios de controle de entrada e saída de mercadorias, além de fazer o inventário. Realizar o processo de venda que acontece dentro da própria companhia, através de meios de comunicação mais tradicionais, como o telefone, como também por métodos online.
-
-- Receber para a guarda e proteção os materiais adquiridos pela empresa e entregar os materiais mediante requisições autorizadas
-- Manter atualizados os registros necessários para controle
-- Maximizar o volume armazenado para evitar furos de estoque
-- Relatar a entrada e saída de mercadorias
-
-
-
+*Última atualização: 25/03/2026 (base Lattes) / dados complementares do portfólio web incluídos.*
+```
