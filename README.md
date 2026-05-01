@@ -1,4 +1,3 @@
-https://wondrous-yeot-1db289.netlify.app/
 # Carlos André Rocha Miranda
 
 **Técnico em Informática | Bacharel em Ciências Contábeis | Servidor Público Municipal**
@@ -256,4 +255,4 @@ Ciclo de palestras sobre carreira, liderança, empreendedorismo e finanças pess
 
 ---
 
-*Última atualização do Currículo Lattes: 25/03/2026*
+*Última atualização do Currículo Lattes: 25/05/2026*
