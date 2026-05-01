@@ -1,0 +1,716 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Carlos André Rocha Miranda – Currículo</title>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,400&family=Source+Sans+3:wght@300;400;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --cnpq-blue:    #1a3a6b;
+    --cnpq-mid:     #2a5298;
+    --cnpq-light:   #d6e4f7;
+    --cnpq-rule:    #3a6bc4;
+    --text:         #1c1c1c;
+    --muted:        #555;
+    --border:       #c8d8ee;
+    --bg:           #f7f9fc;
+    --white:        #ffffff;
+    --section-gap: 22px;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text);
+    background: var(--bg);
+  }
+
+  /* ── TOP HEADER BAR ── */
+  .lattes-bar {
+    background: var(--cnpq-blue);
+    color: #fff;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 8px 32px;
+    font-size: 11px;
+    letter-spacing: .04em;
+  }
+  .lattes-bar .logo-text {
+    font-family: 'Source Serif 4', serif;
+    font-size: 17px;
+    font-weight: 600;
+    letter-spacing: .06em;
+    margin-right: 6px;
+  }
+  .lattes-bar .sep { opacity:.4; }
+
+  /* ── PAGE WRAPPER ── */
+  .page {
+    max-width: 860px;
+    margin: 0 auto;
+    background: var(--white);
+    border-left: 1px solid var(--border);
+    border-right: 1px solid var(--border);
+    padding-bottom: 48px;
+  }
+
+  /* ── PROFILE HEADER ── */
+  .profile-header {
+    display: flex;
+    gap: 0;
+    border-bottom: 3px solid var(--cnpq-blue);
+  }
+  .profile-photo-col {
+    flex: 0 0 130px;
+    background: var(--cnpq-light);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 18px 12px 18px;
+    border-right: 1px solid var(--border);
+  }
+  .profile-photo-col img {
+    width: 96px;
+    height: 96px;
+    object-fit: cover;
+    border: 2px solid var(--cnpq-mid);
+    display: block;
+  }
+  .photo-label {
+    font-size: 9.5px;
+    color: var(--muted);
+    margin-top: 6px;
+    text-align: center;
+    line-height: 1.3;
+  }
+
+  .profile-info {
+    flex: 1;
+    padding: 18px 24px 16px;
+  }
+  .profile-name {
+    font-family: 'Source Serif 4', serif;
+    font-size: 22px;
+    font-weight: 600;
+    color: var(--cnpq-blue);
+    line-height: 1.2;
+    margin-bottom: 4px;
+  }
+  .profile-title {
+    font-size: 12.5px;
+    color: var(--cnpq-mid);
+    font-weight: 600;
+    letter-spacing: .02em;
+    margin-bottom: 10px;
+  }
+  .profile-meta {
+    font-size: 12px;
+    color: var(--muted);
+    line-height: 1.8;
+  }
+  .profile-meta a { color: var(--cnpq-mid); text-decoration: none; }
+  .profile-meta a:hover { text-decoration: underline; }
+  .profile-meta .mi { display: inline-block; width: 16px; }
+
+  .id-badges {
+    display: flex;
+    gap: 8px;
+    margin-top: 12px;
+    flex-wrap: wrap;
+  }
+  .badge {
+    background: var(--cnpq-light);
+    border: 1px solid var(--cnpq-rule);
+    color: var(--cnpq-blue);
+    font-size: 10.5px;
+    padding: 2px 8px;
+    font-weight: 600;
+    letter-spacing: .03em;
+  }
+
+  /* ── SECTION STRUCTURE ── */
+  .section-wrap {
+    margin: 0;
+  }
+  .section-header {
+    background: var(--cnpq-blue);
+    color: #fff;
+    font-family: 'Source Serif 4', serif;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: .05em;
+    padding: 5px 24px;
+    text-transform: uppercase;
+    cursor: pointer;
+    user-select: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+  }
+  .section-header .toggle { font-size: 16px; opacity: .7; }
+  .section-body {
+    padding: 14px 24px var(--section-gap);
+    border-bottom: 1px solid var(--border);
+  }
+
+  /* ── RESUMO ── */
+  .resumo-text {
+    font-size: 13px;
+    color: var(--text);
+    line-height: 1.65;
+    text-align: justify;
+    border-left: 3px solid var(--cnpq-rule);
+    padding-left: 14px;
+  }
+
+  /* ── ITEM BLOCKS ── */
+  .item {
+    padding: 10px 0;
+    border-bottom: 1px dashed var(--border);
+  }
+  .item:last-child { border-bottom: none; }
+
+  .item-title {
+    font-family: 'Source Serif 4', serif;
+    font-weight: 600;
+    font-size: 13.5px;
+    color: var(--cnpq-blue);
+    margin-bottom: 2px;
+  }
+  .item-sub {
+    font-size: 12.5px;
+    color: var(--cnpq-mid);
+    font-weight: 600;
+    margin-bottom: 2px;
+  }
+  .item-period {
+    font-size: 11.5px;
+    color: var(--muted);
+    font-style: italic;
+    margin-bottom: 4px;
+  }
+  .item-desc {
+    font-size: 12.5px;
+    color: var(--text);
+    margin-top: 4px;
+  }
+  .item-desc ul {
+    padding-left: 18px;
+    margin-top: 3px;
+  }
+  .item-desc ul li { margin-bottom: 2px; }
+
+  /* ── HABILIDADES GRID ── */
+  .skills-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px 24px;
+  }
+  .skill-block h4 {
+    font-size: 12.5px;
+    font-weight: 600;
+    color: var(--cnpq-blue);
+    border-bottom: 1px solid var(--cnpq-light);
+    padding-bottom: 3px;
+    margin-bottom: 5px;
+  }
+  .skill-block ul {
+    padding-left: 16px;
+    font-size: 12px;
+    color: var(--text);
+  }
+  .skill-block ul li { margin-bottom: 2px; }
+
+  /* ── CURSOS ── */
+  .curso-group h4 {
+    font-size: 12.5px;
+    font-weight: 600;
+    color: var(--cnpq-mid);
+    margin: 12px 0 5px;
+    padding-left: 4px;
+    border-left: 3px solid var(--cnpq-rule);
+    padding-left: 8px;
+  }
+  .curso-group ul {
+    padding-left: 20px;
+    font-size: 12px;
+    color: var(--text);
+  }
+  .curso-group ul li { margin-bottom: 2px; }
+  .curso-inst {
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--cnpq-blue);
+    margin-top: 16px;
+    margin-bottom: 4px;
+    background: var(--cnpq-light);
+    padding: 4px 10px;
+  }
+
+  /* ── TABELAS ── */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 12.5px;
+    margin-top: 6px;
+  }
+  thead tr { background: var(--cnpq-mid); color: #fff; }
+  thead th { padding: 5px 10px; text-align: left; font-weight: 600; font-size: 11.5px; }
+  tbody tr:nth-child(even) { background: var(--cnpq-light); }
+  tbody td { padding: 4px 10px; border-bottom: 1px solid var(--border); }
+
+  /* ── IDIOMAS ── */
+  .lang-table { max-width: 500px; }
+
+  /* ── LINKS ── */
+  .links-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 6px;
+  }
+  .link-chip {
+    background: var(--cnpq-light);
+    border: 1px solid var(--border);
+    padding: 4px 12px;
+    font-size: 12px;
+    color: var(--cnpq-blue);
+    text-decoration: none;
+    font-weight: 600;
+    transition: background .15s;
+  }
+  .link-chip:hover { background: var(--cnpq-mid); color: #fff; }
+
+  /* ── FOOTER ── */
+  .page-footer {
+    text-align: center;
+    font-size: 11px;
+    color: var(--muted);
+    padding: 14px 24px 0;
+    border-top: 1px solid var(--border);
+    margin: 24px 24px 0;
+  }
+
+  @media print {
+    body { background: white; }
+    .lattes-bar { print-color-adjust: exact; -webkit-print-color-adjust: exact; }
+    .section-header { print-color-adjust: exact; -webkit-print-color-adjust: exact; }
+  }
+</style>
+</head>
+<body>
+
+<!-- TOP BAR -->
+<div class="lattes-bar">
+  <span class="logo-text">Lattes</span>
+  <span class="sep">|</span>
+  <span>Plataforma Lattes – CNPq</span>
+  <span class="sep">|</span>
+  <span>Currículo Vitae</span>
+</div>
+
+<div class="page">
+
+  <!-- PROFILE HEADER -->
+  <div class="profile-header">
+    <div class="profile-photo-col">
+      <img src="https://avatars.githubusercontent.com/u/39061067?s=640&v=4" alt="Foto de Carlos André Rocha Miranda">
+      <div class="photo-label">Carlos André<br>Rocha Miranda</div>
+    </div>
+    <div class="profile-info">
+      <div class="profile-name">Carlos André Rocha Miranda</div>
+      <div class="profile-title">Técnico em Informática &nbsp;|&nbsp; Bacharel em Ciências Contábeis &nbsp;|&nbsp; Servidor Público Municipal</div>
+      <div class="profile-meta">
+        <span class="mi">📍</span> Pedro Afonso – TO, Brasil, CEP: 77710-000<br>
+        <span class="mi">📞</span> +55 (63) 9 99242-8022<br>
+        <span class="mi">✉️</span> <a href="mailto:mirandinhacontabilidade@gmail.com">mirandinhacontabilidade@gmail.com</a> &nbsp;|&nbsp; <a href="mailto:legislativomunicipal@aol.com">legislativomunicipal@aol.com</a>
+      </div>
+      <div class="id-badges">
+        <a class="badge" href="https://lattes.cnpq.br/4903719835013487" target="_blank">Lattes: 4903719835013487</a>
+        <a class="badge" href="https://orcid.org/0009-0003-6651-7088" target="_blank">ORCID: 0009-0003-6651-7088</a>
+        <a class="badge" href="https://www.linkedin.com/in/andremiranda2014" target="_blank">LinkedIn</a>
+        <a class="badge" href="https://wondrous-yeot-1db289.netlify.app/" target="_blank">Portfólio Web</a>
+        <a class="badge" href="https://goo.gl/hjjrzW" target="_blank">WhattsApp</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 1. RESUMO -->
+  <div class="section-wrap">
+    <div class="section-header" onclick="toggle(this)">
+      <span>Resumo Profissional</span><span class="toggle">▾</span>
+    </div>
+    <div class="section-body">
+      <p class="resumo-text">
+        Profissional com formação interdisciplinar em Tecnologia da Informação e Ciências Contábeis, com sólida experiência no setor público e conhecimento aplicado em contabilidade privada, suporte técnico, programação web e gestão de dados. É <strong>Técnico em Informática</strong> pela <strong>Câmara Municipal de Pedro Afonso-TO</strong> desde 2018, atuando no suporte, manutenção e gestão de sistemas de informação do Poder Legislativo municipal. <strong>Bacharel em Ciências Contábeis</strong> pela Universidade Pitágoras Unopar Anhanguera (2022), com ênfase em contabilidade pública, fiscal e societária. Possui também formação técnica em Informática pelo <strong>IFTO</strong> (2018), experiência como Técnico de Transmissão nas Eleições Gerais de 2022 pelo TRE-TO, e mais de 17 anos de experiência no mercado varejista em vendas, atendimento comercial e gestão. Investe continuamente em capacitação profissional nas áreas de gestão pública, finanças, direito, tecnologia e liderança, com cursos realizados junto ao ILB, ENAP, TCE-TO e IFTO, entre outras instituições.
+      </p>
+    </div>
+  </div>
+
+  <!-- 2. EXPERIÊNCIA PROFISSIONAL -->
+  <div class="section-wrap">
+    <div class="section-header" onclick="toggle(this)">
+      <span>Atuação Profissional</span><span class="toggle">▾</span>
+    </div>
+    <div class="section-body">
+
+      <div class="item">
+        <div class="item-title">Técnico em Informática – Servidor Público</div>
+        <div class="item-sub">Câmara Municipal de Pedro Afonso-TO (CMPA)</div>
+        <div class="item-period">2018 – Atual</div>
+        <div class="item-desc">
+          <ul>
+            <li>Suporte técnico, manutenção e gestão de tecnologia da informação no Poder Legislativo municipal</li>
+            <li>Gestão de rede de computadores e cabeamento estruturado</li>
+            <li>Manutenção e instalação de softwares e sistemas operacionais (Windows e Linux)</li>
+            <li>Realização de backup de arquivos e recuperação de sistemas</li>
+            <li>Desenvolvimento de layouts/interfaces web com HTML/CSS</li>
+            <li>Integração de dados com serviços de back-end e bancos de dados</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="item">
+        <div class="item-title">Técnico de Transmissão – Trabalho Voluntário</div>
+        <div class="item-sub">Tribunal Regional Eleitoral do Tocantins – 23ª Zona Eleitoral, Pedro Afonso-TO</div>
+        <div class="item-period">Eleições Gerais 2022 – 1º Turno (set/out 2022) e 2º Turno (out 2022)</div>
+        <div class="item-desc">
+          <ul>
+            <li>Atuação em treinamentos preparatórios para operação dos sistemas eleitorais</li>
+            <li>Suporte técnico à transmissão de resultados eleitorais</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="item">
+        <div class="item-title">Gerente / Supervisor / Consultor de Vendas</div>
+        <div class="item-sub">Mercado Varejista</div>
+        <div class="item-period">Mais de 17 anos de experiência</div>
+        <div class="item-desc">
+          <ul>
+            <li>Atendimento direto ao consumidor; negociação de preços, prazos, condições de pagamento e descontos</li>
+            <li>Orientação ao cliente sobre especificações de produtos e serviços</li>
+            <li>Controle de demanda de pedidos em estoque e cumprimento de metas de vendas</li>
+            <li>Gestão e planejamento de equipes comerciais</li>
+            <li>Processo de vendas presencial, telefônico e online</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="item">
+        <div class="item-title">Auxiliar de Expedição</div>
+        <div class="item-sub">Setor Logístico / Varejista</div>
+        <div class="item-desc">
+          <ul>
+            <li>Recebimento, organização e controle de produtos no estoque</li>
+            <li>Preparação e envio de mercadorias ao cliente final (separação, embalagem e conferência de NF-e)</li>
+            <li>Gestão de estoque com relatórios de controle de entrada e saída</li>
+            <li>Realização de inventário periódico</li>
+          </ul>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- 3. FORMAÇÃO ACADÊMICA -->
+  <div class="section-wrap">
+    <div class="section-header" onclick="toggle(this)">
+      <span>Formação Acadêmica</span><span class="toggle">▾</span>
+    </div>
+    <div class="section-body">
+
+      <div class="item">
+        <div class="item-title">Bacharelado em Ciências Contábeis</div>
+        <div class="item-sub">Universidade Pitágoras Unopar Anhanguera (UPUA)</div>
+        <div class="item-period">2019 – 2022</div>
+        <div class="item-desc">Habilitação: Contador &nbsp;|&nbsp; Carga horária integralizada: 3.000h &nbsp;|&nbsp; Orientadora: Prof.ª Solange Martins<br>
+        Participação no ENADE 2022 – Habilitado (Concluinte)</div>
+      </div>
+
+      <div class="item">
+        <div class="item-title">Técnico em Informática</div>
+        <div class="item-sub">Instituto Federal de Educação, Ciência e Tecnologia do Tocantins (IFTO)</div>
+        <div class="item-period">2016 – 2017 &nbsp;|&nbsp; Colação de grau: 10 de abril de 2018</div>
+      </div>
+
+      <div class="item">
+        <div class="item-title">Ensino Médio</div>
+        <div class="item-sub">Escola Estadual Comendador Pádua Fleury</div>
+        <div class="item-period">1999 – 2001 &nbsp;|&nbsp; Concluído em 16 de dezembro de 2001</div>
+      </div>
+
+      <div class="item">
+  <div class="item-title">Ensino Fundamental (2ª Fase)</div>
+  <div class="item-sub">Escola Estadual Comendador Pádua Fleury</div>
+  <div class="item-period">1995 – 1998 &nbsp;|&nbsp; Concluído em 15 de dezembro de 1998</div>
+</div>
+
+<div class="item">
+  <div class="item-title">Ensino Fundamental (1ª Fase)</div>
+  <div class="item-sub">Escola Estadual Ana Amorim (EEAA)</div>
+  <div class="item-period">1990 – 1994 &nbsp;|&nbsp; Concluído em 10 de dezembro de 1994</div>
+</div>
+
+    </div>
+  </div>
+
+  <!-- 4. HABILIDADES -->
+  <div class="section-wrap">
+    <div class="section-header" onclick="toggle(this)">
+      <span>Habilidades Profissionais</span><span class="toggle">▾</span>
+    </div>
+    <div class="section-body">
+      <div class="skills-grid">
+
+        <div class="skill-block">
+          <h4>Contabilidade Empresarial e Pública</h4>
+          <ul>
+            <li>Abertura e encerramento de empresas</li>
+            <li>Balanços, fluxo de caixa, planejamento e orçamento</li>
+            <li>Apuração de impostos e guias de recolhimento</li>
+            <li>Conciliação contábil e lançamentos financeiros</li>
+            <li>Contabilidade pública, orçamentária e fiscal</li>
+          </ul>
+        </div>
+
+        <div class="skill-block">
+          <h4>Suporte Técnico em Informática</h4>
+          <ul>
+            <li>Manutenção de hardware e software</li>
+            <li>Gestão de redes e cabeamento estruturado</li>
+            <li>Sistemas operacionais Windows e Linux</li>
+            <li>Backup e recuperação de dados</li>
+          </ul>
+        </div>
+
+        <div class="skill-block">
+          <h4>Programação Web</h4>
+          <ul>
+            <li>HTML/CSS – layouts e interfaces</li>
+            <li>Integração com back-end e bancos de dados</li>
+            <li>Boas práticas de desenvolvimento de software</li>
+            <li>Cert.: Redes, IA, Engenharia de Software, Azure</li>
+          </ul>
+        </div>
+
+        <div class="skill-block">
+          <h4>Segurança da Informação</h4>
+          <ul>
+            <li>Análise de vulnerabilidades de TI</li>
+            <li>Boas práticas de proteção de dados</li>
+            <li>Auditoria e supervisão de sistemas</li>
+          </ul>
+        </div>
+
+        <div class="skill-block">
+          <h4>Infraestrutura de TI</h4>
+          <ul>
+            <li>Instalação e manutenção de hardware/software</li>
+            <li>Implantação de redes e servidores</li>
+            <li>Cloud (computação em nuvem) e consultoria</li>
+          </ul>
+        </div>
+
+        <div class="skill-block">
+          <h4>Análise e Gestão de Dados</h4>
+          <ul>
+            <li>Mapeamento e processamento de conteúdos</li>
+            <li>Análise de mercado via internet e redes sociais</li>
+            <li>Atendimentos remotos e suporte a vendas/marketing</li>
+          </ul>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- 5. FORMAÇÃO COMPLEMENTAR -->
+  <div class="section-wrap">
+    <div class="section-header" onclick="toggle(this)">
+      <span>Formação Complementar</span><span class="toggle">▾</span>
+    </div>
+    <div class="section-body">
+
+      <div class="curso-inst">Tribunal de Contas do Estado do Tocantins (TCE-TO) – Instituto de Contas 5 de Outubro</div>
+      <div class="curso-group">
+        <h4>FORMAP – Programa de Formação de Agentes Públicos (2011)</h4>
+        <ul>
+          <li>Módulo III – Gestão Ambiental Pública <em>(10h)</em></li>
+          <li>Módulo IV – Orçamento e Planejamento I <em>(12h)</em></li>
+          <li>Módulo V – Orçamento e Planejamento II <em>(12h)</em></li>
+          <li>Módulo VI – Licitações e Contratos Administrativos <em>(6h)</em></li>
+          <li>Módulo VII – FUNDEB <em>(10h)</em></li>
+          <li>Módulo VIII – SICAP <em>(10h)</em></li>
+          <li>Módulo IX – O Controle Externo na Administração Pública e o Tribunal de Contas <em>(6h)</em></li>
+        </ul>
+        <h4>Outros cursos TCE-TO</h4>
+        <ul>
+          <li>Ciclo de Encontros Técnicos: Municípios da Sexta Relatoria – Turma I – Itacajá-TO <em>(2023, 4h)</em></li>
+          <li>Projeto Agenda Cidadã – Turma II – Pedro Afonso-TO <em>(2023, 8h)</em></li>
+          <li>Programa TCE de Olho no Futuro – Aliança pela Primeira Infância – Palmas-TO <em>(2025, 4h)</em></li>
+        </ul>
+      </div>
+
+      <div class="curso-inst">Instituto Legislativo Brasileiro (ILB) e Escola Nacional de Administração Pública (ENAP)</div>
+      <div class="curso-group">
+        <ul>
+          <li>Introdução ao Direito Constitucional – ILB <em>(2023, 40h)</em></li>
+          <li>Orçamento Público Avançado – ILB <em>(2023, 60h)</em></li>
+          <li>Novo Regime Fiscal e o Teto de Gastos – ENAP <em>(2023, 30h)</em></li>
+          <li>Gestão Estratégica com Foco na Administração Pública – ILB <em>(2020, 40h)</em></li>
+          <li>Acesso à Informação – ENAP <em>(2020, 20h)</em></li>
+          <li>Ética e Administração Pública – ILB <em>(2020, 40h)</em></li>
+        </ul>
+      </div>
+
+      <div class="curso-inst">Secretaria de Educação Básica / AVAMEC</div>
+      <div class="curso-group">
+        <ul>
+          <li>Formação de Professores dos Anos Iniciais do Ensino Fundamental – SEB/AVAMEC <em>(2023, 360h)</em></li>
+        </ul>
+      </div>
+
+      <div class="curso-inst">Instituto Federal de Educação, Ciência e Tecnologia do Tocantins (IFTO)</div>
+      <div class="curso-group">
+        <ul>
+          <li>Programador Web – FIC <em>(2021, 180h)</em></li>
+          <li>Inglês Básico – FIC <em>(2018, 180h)</em></li>
+        </ul>
+      </div>
+
+      <div class="curso-inst">Universidade Pitágoras Unopar Anhanguera (UPUA) – Trilhas de Carreira e Cursos Avulsos (2020)</div>
+      <div class="curso-group">
+        <h4>Trilhas de Carreira</h4>
+        <table>
+          <thead><tr><th>Trilha</th><th>Carga Horária</th></tr></thead>
+          <tbody>
+            <tr><td>Argumentação e Análise de Discurso</td><td>120h</td></tr>
+            <tr><td>Coaching e Liderança</td><td>80h</td></tr>
+            <tr><td>Comunicação em Negócios e Mídias Sociais</td><td>180h</td></tr>
+            <tr><td>Espanhol – Incrementando o Vocabulário</td><td>120h</td></tr>
+            <tr><td>Espanhol – Vocabulário Essencial</td><td>120h</td></tr>
+            <tr><td>Gestão de Projetos de Sustentabilidade</td><td>120h</td></tr>
+            <tr><td>Relações Sociais e Comportamento Humano</td><td>120h</td></tr>
+            <tr><td>Inglês: Vocabulário Essencial</td><td>120h</td></tr>
+            <tr><td>Mercado Bancário e Defesa da Concorrência</td><td>120h</td></tr>
+            <tr><td>Logística e Gestão da Qualidade no Agronegócio</td><td>120h</td></tr>
+            <tr><td>Tecnologia, Direito Digital e Propriedade Intelectual</td><td>180h</td></tr>
+            <tr><td>Inovação em Gestão de Pessoas</td><td>120h</td></tr>
+            <tr><td>Economia Política Mundial</td><td>180h</td></tr>
+          </tbody>
+        </table>
+
+        <h4 style="margin-top:12px">Cursos Avulsos UPUA</h4>
+        <ul>
+          <li>Análise do Discurso <em>(60h)</em></li>
+          <li>Teoria da Argumentação Jurídica <em>(60h)</em></li>
+          <li>Autocoaching <em>(20h)</em></li>
+          <li>Comunicação Assertiva e Negociação <em>(20h)</em></li>
+          <li>Gestão de Metas e Indicadores de Performance <em>(20h)</em></li>
+          <li>Liderança e Desenvolvimento de Equipes <em>(20h)</em></li>
+          <li>Comunicação de Marketing em Meios Digitais <em>(60h)</em></li>
+          <li>Gestão da Comunicação <em>(60h)</em></li>
+          <li>Gestão e Planejamento de Mídia <em>(60h)</em></li>
+          <li>Língua Espanhola I <em>(60h)</em> &nbsp;|&nbsp; Língua Espanhola II <em>(60h)</em> &nbsp;|&nbsp; Língua Espanhola III <em>(60h)</em> &nbsp;|&nbsp; Língua Espanhola IV <em>(60h)</em></li>
+          <li>Economia Ambiental <em>(60h)</em></li>
+          <li>Gestão de Recursos Naturais e Energéticos <em>(60h)</em></li>
+          <li>Teoria Jurídica do Direito Penal <em>(60h)</em></li>
+          <li>Mercado de Capitais <em>(20h)</em></li>
+          <li>Orçamento Empresarial <em>(120h)</em></li>
+          <li>Contabilidade Gerencial</li>
+        </ul>
+      </div>
+
+      <div class="curso-inst">Kroton Educação / Faculdade Anhanguera – Semana "Encare o Desafio" (junho/2020)</div>
+      <div class="curso-group">
+        <ul>
+          <li>Como ser um líder inspirador na vida e no trabalho <em>(1h)</em></li>
+          <li>Conheça seu Propósito, invista em conhecimento e seja Protagonista em sua carreira <em>(1h)</em></li>
+          <li>De Promotor de Vendas à Executivo da Apple e Cogna <em>(1h)</em></li>
+          <li>Autoconhecimento e foco nos seus Pontos Fortes pode mudar sua Vida e Carreira <em>(1h)</em></li>
+          <li>Como conseguir um emprego? Do CV à entrevista de emprego <em>(1h)</em></li>
+          <li>Educação Financeira: O que você precisa saber para começar a ter liberdade financeira <em>(1h)</em></li>
+          <li>Produtividade, trabalho e estudo na quarentena <em>(1h)</em></li>
+          <li>As 6 dimensões para prosperidade na Vida e na Carreira <em>(1h)</em></li>
+          <li>Como impactar a vida de um milhão de pessoas nas redes sociais <em>(1h)</em></li>
+          <li>Esqueça o fator sorte e QI. Sucesso é ser dono do seu próprio destino <em>(1h)</em></li>
+          <li>Como aumentar as suas vendas durante a crise <em>(1h)</em></li>
+          <li>Como Aumentar sua Empregabilidade e ser à Prova de Crise <em>(1h)</em></li>
+          <li>Reinvente seu Negócio em Meio à Crise. Case Real: Agência Nuts <em>(1h)</em></li>
+          <li>Uma opção para você ter nova fonte de Renda a partir de hoje <em>(1h)</em></li>
+          <li>Capacitar-se durante a Quarentena para o Pós-Quarentena <em>(1h)</em></li>
+          <li>Gestão das finanças: do pequeno ao grande negócio <em>(1h)</em></li>
+          <li>Segredos do Sucesso <em>(1h)</em></li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- 6. IDIOMAS -->
+  <div class="section-wrap">
+    <div class="section-header" onclick="toggle(this)">
+      <span>Idiomas</span><span class="toggle">▾</span>
+    </div>
+    <div class="section-body">
+      <table class="lang-table">
+        <thead>
+          <tr><th>Idioma</th><th>Compreensão</th><th>Leitura</th><th>Fala</th><th>Escrita</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Português</td><td>Fluente</td><td>Fluente</td><td>Fluente</td><td>Fluente</td></tr>
+          <tr><td>Inglês</td><td>Bom</td><td>Bom</td><td>Razoável</td><td>Básico</td></tr>
+          <tr><td>Espanhol</td><td>Bom</td><td>Bom</td><td>Razoável</td><td>Básico</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- 7. LINKS E PERFIS -->
+  <div class="section-wrap">
+    <div class="section-header" onclick="toggle(this)">
+      <span>Links e Perfis</span><span class="toggle">▾</span>
+    </div>
+    <div class="section-body">
+      <div class="links-grid">
+        <a class="link-chip" href="https://lattes.cnpq.br/4903719835013487" target="_blank">🔗 Currículo Lattes</a>
+        <a class="link-chip" href="https://orcid.org/0009-0003-6651-7088" target="_blank">🔗 ORCID</a>
+        <a class="link-chip" href="https://www.linkedin.com/in/andremiranda2014" target="_blank">💼 LinkedIn</a>
+        <a class="link-chip" href="https://wondrous-yeot-1db289.netlify.app/" target="_blank">🌐 Portfólio Web</a>
+        <a class="link-chip" href="https://www.facebook.com/andrehmiranda" target="_blank">📘 Facebook</a>
+        <a class="link-chip" href="https://www.instagram.com/andremiranda04" target="_blank">📸 Instagram</a>
+        <a class="link-chip" href="https://twitter.com/andremirandaa" target="_blank">🐦 Twitter</a>
+        <a class="link-chip" href="https://goo.gl/hjjrzW" target="_blank">💬 WhatsApp</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="page-footer">
+    Última atualização do Currículo Lattes: 25/03/2026 &nbsp;|&nbsp; Gerado em formato inspirado na Plataforma Lattes – CNPq
+  </div>
+
+</div><!-- /page -->
+
+<script>
+  function toggle(header) {
+    const body = header.nextElementSibling;
+    const icon = header.querySelector('.toggle');
+    if (body.style.display === 'none') {
+      body.style.display = '';
+      icon.textContent = '▾';
+    } else {
+      body.style.display = 'none';
+      icon.textContent = '▸';
+    }
+  }
+</script>
+</body>
+</html>
